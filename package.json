@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "babel-loader": "^8.2.2"
+  },
+  "scripts": {
+    "css-build": "node-sass --omit-source-map-url src/sass/main.scss src/css/main.css",
+    "css-watch": "node-sass --watch --omit-source-map-url src/sass/main.scss src/css/main.css",
+    "start": "webpack --watch --mode development"
+  },
+  "devDependencies": {
+    "bulma": "^0.9.3",
+    "node-sass": "^6.0.1"
+  }
+}
