@@ -1,0 +1,72 @@
+/* Import fonts */
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;500;600;700&display=swap');
+
+/* Import PureCSS */
+@import url('https://unpkg.com/purecss@3.0.0/build/pure-min.css');
+@import url('https://unpkg.com/purecss@3.0.0/build/grids-responsive-min.css');
+
+/* Import Font Awesome */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css');
+
+body {
+  background-color: #f7f5f3;
+}
+/* Custom container width */
+.l-container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 1em;
+}
+
+.centered {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 60vh;
+  text-align: center;
+}
+
+.profile-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1.25em;
+  border: 1px solid #333;
+}
+
+.title {
+  font-size: 2.0em;
+  margin-bottom: 0.25em;
+  color: #333;
+}
+
+.subtitle {
+  font-size: 1.0em;
+  color: #6666668c;
+  margin-bottom: 1em;
+}
+
+.about-section {
+  max-width: 600px;
+  margin: 0 auto 1em;
+  line-height: 1.5;
+  color: #444;
+}
+
+.social-icons {
+  display: flex;
+  gap: 1.5em;
+  justify-content: center;
+}
+
+.social-icons a {
+  color: #333;
+  font-size: 1.5em;
+  transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+  color: #007bff;
+}
