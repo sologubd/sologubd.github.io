@@ -1,9 +1,0 @@
-[submodule "themes/PaperMod"]
-	path = themes/PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod.git
-[submodule "themes/HelloFriend"]
-	path = themes/HelloFriend
-	url = git@github.com:rhazdon/hugo-theme-hello-friend-ng.git
-[submodule "themes/Coder"]
-	path = themes/Coder
-	url = git@github.com:luizdepra/hugo-coder.git
