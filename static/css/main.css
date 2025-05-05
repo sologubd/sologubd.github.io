@@ -17,8 +17,7 @@ body {
 }
 
 a {
-  color: #7253ed;
-  text-decoration: none;
+  color: #7253ed !important;
 }
 
 /* Custom container width */
@@ -33,7 +32,7 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  min-height: 65vh;
+  min-height: 75vh;
   text-align: center;
 }
 
