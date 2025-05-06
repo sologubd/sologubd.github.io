@@ -1,1 +1,7 @@
+# Mac OS
 *.DS_Store
+
+# Jekyll
+_site
+Gemfile
+Gemfile.lock
