@@ -35,7 +35,7 @@
 
 ### SteamDeck OLED 512 GB
 
-<img src="https://m.media-amazon.com/images/I/51nWWFLOZ5L._AC_SX679_.jpg" style="height: 150px; width: 150px;">
+<img src="https://m.media-amazon.com/images/I/51nWWFLOZ5L._AC_SX679_.jpg" style="width: 150px;">
 
 - [Amazon](https://www.amazon.es/Valve-Steam-Consola-juegos-port%C3%A1til/dp/B0CPVSHL3X/ref=sr_1_1?crid=RYMSIZAMDAOX&dib=eyJ2IjoiMSJ9.1Ago0W6DAKDn5nsUnk4wdaNm1NI7Fpvs6wbr_eEtyUOOhXgxIvDmGniiU3LydehkgtlgWem6gcM3efyG-xEOnLSQDYhzqei-EeZC0tm-pstY6ATDlqVPNvsG4L39tAYRUJdKQ2AgVxDtCDuKbO2eGfKVKJT6rULIEMgPquEDz6pHn9gN9Pt7kQkk6CB-hSyvh8jeOHL0dX21-0YYPC9mfZR1cANEeMhpo4tNjpWV31WOI-xbxHwP-CHic-XX68ji_tyXQzeBv2-HFdC-lVqKqkl1J3l-SB8UI8qjt1rBEiE.AVHwyLeBCWP3QwNHtBuAH0N4H3D1uHA8KJdJ-sFqBD8&dib_tag=se&keywords=steam+deck+oled+512gb&qid=1765113371&sprefix=steam+deck+ol%2Caps%2C81&sr=8-1)
 ---
